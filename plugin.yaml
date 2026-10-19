@@ -1,0 +1,12 @@
+name: hermes-memory-pane
+version: 0.1.0
+description: See what Hermes remembered in the focused chat, and edit or undo it from a Desktop pane.
+author: Adolanium
+license: MIT
+manifest_version: 1
+requires_hermes: ">=0.22.2"
+kind: standalone
+provides_tools: []
+provides_hooks: []
+provides_middleware: [tool_execution]
+requires_env: []

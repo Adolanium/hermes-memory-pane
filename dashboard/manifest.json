@@ -1,0 +1,9 @@
+{
+  "name": "hermes-memory-pane",
+  "label": "Memory",
+  "version": "0.1.0",
+  "description": "Built-in memory data for the desktop pane.",
+  "tab": { "hidden": true },
+  "entry": "index.js",
+  "api": "plugin_api.py"
+}
